@@ -287,8 +287,8 @@ section.success {
   color: #18BC9C;
 }
 form .row:first-child .floating-label-form-group {
-  border-top: 2px solid #FE2E9A;
-  margin-left:50%;
+  border-top: 2px solid #fe2e9a;
+  margin-left: 50%;
 }
 footer {
   lgcolor: white;
